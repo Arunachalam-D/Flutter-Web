@@ -6,4 +6,5 @@ class WebColors{
   static const textWhite = Colors.white;
   static const enabledBorder = Colors.grey;
   static const focussedBorder = Colors.blue;
+  static const transparent = Colors.transparent;
 }
